@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    div {
+        flex: 1;
+        white-space: nowrap;
+        align-self: center;
+    }
+
+    div:first-of-type {
+        margin-right: 19px;
+    }
+
+    h4 {
+        font-size: 12px;
+        opacity: 0.71;
+        color: #000;
+    }
+}
